@@ -2,7 +2,7 @@
 layout: post
 title:  gemパッケージをバージョンアップする方法
 date:   2015/12/30 16:16:00 +0900
-categories: gem
+tags: gem ruby
 ---
 
 gem自身ではなくて、gemパッケージ(railsなど)のバージョンを上げる方法を記載する。  
